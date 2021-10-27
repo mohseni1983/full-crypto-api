@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "data": {
+    "network": "BTCTEST",
+    "address": "mhEj9J2KKrxwuHgA2m78JZVR6yYyDai7pF",
+    "confirmed_balance": "0.00100000",
+    "unconfirmed_balance": "0.00030000"
+  }
+}
+
+master wallet btc
+{
+  "response": {
+    "private": "63e236acc8bef1993a0c8cf54bc24a7509489b6900d3cc01e7e03e73481edd18",
+    "public": "0366a334db5bfb7afdea6178ba38a21089e8463883d69f7122f207c20575437880",
+    "address": "mhEj9J2KKrxwuHgA2m78JZVR6yYyDai7pF",
+    "wif": "cQvryMm6hiiZMusrb9fyfYdNWMRmhbq89JeCA9mXxvwkydKAtJAR"
+  }
+}
+
+slave wallet btc
+{
+  "response": {
+    "private": "696fd3e35d909ec08404559680686a22ee838aa4574a4187466986de3afdbe1a",
+    "public": "0340ec24e68059d0165ea98c1eeb6f2f7a456fe0f7a7bf8e1a8a94b8eba494b401",
+    "address": "mxZqvUgfRMkiSVq3HHSg8o6h9w5RtHZTDm",
+    "wif": "cR7f4anSVRN6icjSat1EWKnYtiS54gpsyPTJ5HyZuFBf26mb71gU"
+  }
+}
